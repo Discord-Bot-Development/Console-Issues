@@ -47,7 +47,7 @@ Staff Members can gain access to Card Information. For more information about wh
 Stripe, please visit Stripe's [Privacy Policy](https://stripe.com/privacy).
 
 ## Deletion of stored data
-To request deletion of data associated with you, The User, please make a ticket within the
+To request deletion of data associated with you, The user, please make a ticket within the
 [Console Support Server](https://discord.gg/RFSUH8c) by selecting the Data Collection category, and a DBD Staff Member
 will assist you.
 
